@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-$ tftp ip_address [-p port_number] <get|put> filename
+$ python3 source.py ip_address [-p port_number] <get|put> filename
 '''
 
 import os
